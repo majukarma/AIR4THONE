@@ -22,8 +22,8 @@ Inspired by the principles of FORTH, this project is a great introduction to the
 Clone the repository and compile the project:
 
 ```bash
-git clone https://github.com/your-username/mini-forth-interpreter.git
-cd mini-forth-interpreter
+git clone https://github.com/majukarma/AIR4THONE.git
+cd AIR4THONE
 make all
 ```
 
