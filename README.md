@@ -1,6 +1,6 @@
 # AIR 4TH ONE - Mini FORTH Interpreter
 
-![Logo](path/to/logo.png)
+![Logo](./Air4TH1.jpg)
 
 AIR 4TH ONE is a minimalist FORTH interpreter designed to be robust, flexible, and easy to use.
 Inspired by the principles of FORTH, this project is a great introduction to the power and simplicity of this unique language.
