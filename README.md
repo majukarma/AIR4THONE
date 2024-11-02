@@ -53,4 +53,4 @@ Contributions are welcome! To report bugs, suggest features, or contribute code,
 This project is released under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
 While not required, we kindly request that you attribute this project to its original creators if you use it in your own work.
 This project is intended for educational purposes only. The authors disclaim any responsibility for any damages or issues
-that arise from its use in a production environment. See LICENCE.md file in the project for more details.
+that arise from its use in a production environment. See [LICENCE.md](./LICENCE.md) file in this project for more details.
