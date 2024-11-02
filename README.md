@@ -2,9 +2,12 @@
 
 ![Logo](./Air4TH1.jpg)
 
-AIR 4TH ONE is a minimalist FORTH interpreter designed to be robust, flexible, and easy to use.
-Inspired by the principles of FORTH, this project is a great introduction to the power and simplicity of this unique language.
-`main.c` is an example of usage to embed it in your own C/C++ programs.
+**AIR 4TH ONE** is a highly modular and simple implementation of a mini FORTH interpreter. Designed with extensibility in mind, this project provides an excellent platform for learning and developing in C.
+
+Creating or extending a small FORTH compiler is an outstanding theme for those who want to dive into C programming or enhance their existing skills. While this project doesn't aim to be as comprehensive as gForth, it serves as a practical tool for educational purposes and offers a robust starting point for exploring the fascinating world of FORTH interpreters.
+
+Feel free to use it at a base to create your own Forth, or to have a look at it to create your own FORTH interpreter from scratch.
+
 ## Features
 
 - Creation of simple variables and arrays
