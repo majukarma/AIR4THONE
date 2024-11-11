@@ -3,25 +3,7 @@
 #include <string.h>
 #include "variables.h"
 #include "stack.h"
-/*
-void define_variable(Interpreter *interpreter, char *variable_name) {
-    // Vérifier si le nom est déjà un mot
-    Word key = { .name = variable_name };
-    if (bsearch(&key, interpreter->words, interpreter->word_count, sizeof(Word), compare_lexemes)) {
-        printf("Error: Variable name '%s' is already a word\n", variable_name);
-        longjmp((interpreter->env), 1);
-    }
 
-    // Ajouter la nouvelle variable
-    interpreter->variables[interpreter->variable_count].name = strdup(variable_name);
-    interpreter->variables[interpreter->variable_count].value = 0L;
-    interpreter->variable_count++;
-    
-    // Trier les variables après les avoir ajoutées
-    qsort(interpreter->variables, interpreter->variable_count, sizeof(Variable), compare_lexemes);
-    printf("Defined variable '%s'. Variable count is now %d\n", variable_name, interpreter->variable_count);
-}
-*/
 void define_variable(Interpreter *interpreter, char *variable_name) {
     // Vérifier si le nom est déjà un mot
     Word key = { .name = variable_name };
