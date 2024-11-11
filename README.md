@@ -29,7 +29,7 @@ Clone the repository and compile the project:
 
 ```bash
 git clone https://github.com/majukarma/AIR4THONE.git
-cd AIR4THONE
+cd AIR4THONE/sources
 make all
 ```
 
